@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(162, 120, 70) ;
+}
+.block{
+    border: 2px solid rgb(193, 154, 107);
+    background-color: rgb(193, 154, 107);
+     width: 50%;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -152px 0 0 -385px;
+}
+.block h1{
+    margin: 10px;
+    padding: 5px;
+}
+.main{
+    margin: 10px;
+    padding: 5px;
+}
+.main label{
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+}
+.main input{
+    padding: 10px;
+}
+.temp-field label{
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+}
+.temp-field select{
+    padding: 10px;
+   
+}
+.btn{
+    margin: 10px;
+}
